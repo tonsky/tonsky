@@ -23,22 +23,18 @@ Clojure libraries:
 - [Compact UUIDs](https://github.com/tonsky/compact-uuids): Compact 26-char URL-safe representation of UUIDs
 - [Persistent Sorted Set](https://github.com/tonsky/persistent-sorted-set): Fast B-tree-based persistent sorted set
 - [CLJS Drag-n-Drop](https://github.com/tonsky/cljs-drag-n-drop): Sane wrapper around Drag-n-Drop DOM API 
-- [Clojure Unicode](https://github.com/tonsky/clojure.unicode): Program in Unicode
 
 Sublime Text:
 
 - [Sublime Clojure](https://github.com/tonsky/sublime-clojure): Syntax Grammar and nREPL client
-- [Sublime Profiles](https://github.com/tonsky/sublime-profiles): Profile Switcher
+- [Writer](https://github.com/tonsky/sublime-scheme-writer): Color scheme for focused long-form writing
 
-Color Schemes:
+Alabaster, a Minimalist Color Scheme:
 
-- [Alabaster for Sublime Text](https://github.com/tonsky/sublime-scheme-alabaster): Minimalist color scheme
-- [Alabaster for VS Code](https://github.com/tonsky/vscode-theme-alabaster): Minimalist color scheme
-- [Alabaster for IntelliJ](https://github.com/tonsky/intellij-alabaster): Minimalist color scheme
-- [Writer for Sublime Text](https://github.com/tonsky/sublime-scheme-writer): Color scheme for focused long-form writing
+- [for Sublime Text](https://github.com/tonsky/sublime-scheme-alabaster)
+- [for VS Code](https://github.com/tonsky/vscode-theme-alabaster)
+- [for IntelliJ](https://github.com/tonsky/intellij-alabaster)
 
 Keyboard layouts:
 
 - [Universal](https://github.com/tonsky/Universal-Layout): EN/RU reimagined to be used together
-- [Levinson](https://github.com/tonsky/Levinson-Layout): EN/RU for Levinson 40% split ortholinear keyboard
-- [Helix](https://github.com/tonsky/Helix-Layout): EN/RU for Helix 60% split ortholinear keyboard
