@@ -11,7 +11,7 @@ Apps:
 
 Java libraries:
 
-- [Skija](https://github.com/JetBrains/skija): Bindings for Skia, a graphics library
+- [Skija](https://github.com/humbleui/skija): Bindings for Skia, a graphics library
 - [JWM](https://github.com/humbleui/jwm): Cross-platform window management
 
 Clojure libraries:
