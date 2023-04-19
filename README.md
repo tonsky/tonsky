@@ -26,7 +26,8 @@ Clojure libraries:
 
 Sublime Text:
 
-- [Sublime Clojure](https://github.com/tonsky/sublime-clojure): Syntax Grammar and nREPL client
+- [Clojure Sublimed](https://github.com/tonsky/clojure-sublimed): Clojure support for Sublime Text 4 
+- [Executor](https://github.com/tonsky/Sublime-Executor): Run any executable from your working dir in Sublime Text 
 - [Writer](https://github.com/tonsky/sublime-scheme-writer): Color scheme for focused long-form writing
 
 Alabaster, a Minimalist Color Scheme:
