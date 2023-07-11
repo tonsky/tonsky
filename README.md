@@ -35,7 +35,7 @@ Alabaster, a Minimalist Color Scheme:
 - [for Sublime Text](https://github.com/tonsky/sublime-scheme-alabaster)
 - [for VS Code](https://github.com/tonsky/vscode-theme-alabaster)
 - [for IntelliJ](https://github.com/tonsky/intellij-alabaster)
-- [for Alacritty](https://github.com/rajasegar/alacritty-themes/blob/master/themes/Alabaster.yml)
+- [for Alacritty](https://github.com/alacritty/alacritty-theme)
 
 Keyboard layouts:
 
